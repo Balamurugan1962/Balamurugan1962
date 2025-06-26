@@ -5,6 +5,7 @@ I'm an enthusiastic developer who loves building new things and exploring differ
 
 You’ll find me working on everything from web apps to AI experiments, all shared openly on GitHub and <a href='https://codolio.com/profile/Balamurugan'>Codolio</a>. Always curious, always building.
 
-## Find me around web:
+## Find me around web: <img align="right" width="150" height="150" src="./assets/avatar.png">
+
 - Sharing updates on <a href='https://www.linkedin.com/in/balamurugansekar/'>Linked In</a>
 - Solving problems on <a href='https://codolio.com/profile/Balamurugan'>Codolio</a>
